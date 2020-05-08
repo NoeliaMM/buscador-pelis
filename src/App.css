@@ -22,3 +22,13 @@ margin-bottom: 24px;
 /* width: 48%; */
 
 }
+
+
+.Details{
+  justify-content: center;
+  padding-top: 36px;
+  width: 48%;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
