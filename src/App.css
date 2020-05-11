@@ -25,10 +25,14 @@ margin-bottom: 24px;
 
 
 .Details{
-  justify-content: center;
+  
   padding-top: 36px;
   width: 48%;
   margin-left: auto;
   margin-right: auto;
   
+}
+
+.Details{
+  text-align: start;
 }
