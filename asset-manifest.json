@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/buscardor_pelis/static/css/main.3d6d86c8.chunk.css",
+    "main.js": "/buscardor_pelis/static/js/main.cc885276.chunk.js",
+    "main.js.map": "/buscardor_pelis/static/js/main.cc885276.chunk.js.map",
+    "runtime-main.js": "/buscardor_pelis/static/js/runtime-main.5af31957.js",
+    "runtime-main.js.map": "/buscardor_pelis/static/js/runtime-main.5af31957.js.map",
+    "static/css/2.cd1899df.chunk.css": "/buscardor_pelis/static/css/2.cd1899df.chunk.css",
+    "static/js/2.dfee2dc9.chunk.js": "/buscardor_pelis/static/js/2.dfee2dc9.chunk.js",
+    "static/js/2.dfee2dc9.chunk.js.map": "/buscardor_pelis/static/js/2.dfee2dc9.chunk.js.map",
+    "index.html": "/buscardor_pelis/index.html",
+    "precache-manifest.65c67f336bfb4d34e0e02b7672722ce4.js": "/buscardor_pelis/precache-manifest.65c67f336bfb4d34e0e02b7672722ce4.js",
+    "service-worker.js": "/buscardor_pelis/service-worker.js",
+    "static/css/2.cd1899df.chunk.css.map": "/buscardor_pelis/static/css/2.cd1899df.chunk.css.map",
+    "static/css/main.3d6d86c8.chunk.css.map": "/buscardor_pelis/static/css/main.3d6d86c8.chunk.css.map",
+    "static/js/2.dfee2dc9.chunk.js.LICENSE.txt": "/buscardor_pelis/static/js/2.dfee2dc9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/buscardor_pelis/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af31957.js",
+    "static/css/2.cd1899df.chunk.css",
+    "static/js/2.dfee2dc9.chunk.js",
+    "static/css/main.3d6d86c8.chunk.css",
+    "static/js/main.cc885276.chunk.js"
+  ]
+}
