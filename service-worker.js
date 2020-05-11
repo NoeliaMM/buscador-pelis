@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/buscardor-pelis/precache-manifest.ab4c2387e8e59e87e35637b239ecced7.js"
+  "/buscardor-pelis/precache-manifest.07ccf5d874917cfffe5ed68741eb4ef1.js"
 );
 
 self.addEventListener('message', (event) => {

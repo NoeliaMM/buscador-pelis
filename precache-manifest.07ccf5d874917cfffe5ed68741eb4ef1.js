@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14f48bf9abdf66a860d50c6df059fa8a",
+    "revision": "b96cbc786a9d05842dae218191cc7745",
     "url": "/buscardor-pelis/index.html"
   },
   {
-    "revision": "b1bce23d7e2b9de93996",
+    "revision": "483965ef4573a6812371",
     "url": "/buscardor-pelis/static/css/2.cd1899df.chunk.css"
   },
   {
-    "revision": "c4240cf1096d6e3b0cf5",
+    "revision": "acac9d67b1f8490ff570",
     "url": "/buscardor-pelis/static/css/main.3d6d86c8.chunk.css"
   },
   {
-    "revision": "b1bce23d7e2b9de93996",
-    "url": "/buscardor-pelis/static/js/2.dfee2dc9.chunk.js"
+    "revision": "483965ef4573a6812371",
+    "url": "/buscardor-pelis/static/js/2.ee95ecc1.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/buscardor-pelis/static/js/2.dfee2dc9.chunk.js.LICENSE.txt"
+    "url": "/buscardor-pelis/static/js/2.ee95ecc1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4240cf1096d6e3b0cf5",
-    "url": "/buscardor-pelis/static/js/main.25fdca75.chunk.js"
+    "revision": "acac9d67b1f8490ff570",
+    "url": "/buscardor-pelis/static/js/main.0b8e8df3.chunk.js"
   },
   {
     "revision": "fd891b203d3b5e58ff60",
