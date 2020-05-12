@@ -18,7 +18,7 @@ export class Detail extends Component{
     state = {movie: {}}
 
     _fetchMovie({id}){ 
-        fetch(`http://www.omdbapi.com/?apikey=${API_KEY}&i=${id}`)
+        fetch(`https://www.omdbapi.com/?apikey=${API_KEY}&i=${id}`)
         .then(res=>res.json())
         .then(movie=>{
         //    const {Search = [], totalResults ="0"}=results  //se usa propiedad de ES para dar un valor por defecto a los resultados

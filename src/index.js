@@ -6,9 +6,9 @@ import * as serviceWorker from './serviceWorker';
 import {BrowserRouter, HashRouter} from 'react-router-dom';
  
 ReactDOM.render(
-  <HashRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App/>
-  </HashRouter>,
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
